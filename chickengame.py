@@ -1,6 +1,4 @@
 
-
-
 import nashpy as nash
 
 nash.__version__
